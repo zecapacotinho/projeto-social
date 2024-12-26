@@ -30,3 +30,11 @@ main{
     height: 627px;
     transform: translate(-50%, -50%);
 }
+
+#frame{
+    position: relative;
+    top: 83px;
+    left: 26px;
+    width: 260px;
+    height: 465px;
+}
